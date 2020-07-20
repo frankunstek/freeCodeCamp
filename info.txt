@@ -4,3 +4,4 @@ JavaScript Algorithms and Data Structures Certification (300 hours)
       Basic JavaScript 110/110 :    Completed on July 18, 2020
       ES6 31/31 :                   Completed on July 18, 2020
       Regular Expressions 33/33 :   Completed on July 19, 2020
+      Debugging 12/12 :             Completed in July 20, 2020
