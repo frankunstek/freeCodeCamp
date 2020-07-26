@@ -1,9 +1,13 @@
 freeCodeCamp Portfolio at https://www.freecodecamp.org/frankunstek 
 
 JavaScript Algorithms and Data Structures Certification (300 hours) 
-      Basic JavaScript 110/110 :          Completed on July 18, 2020
-      ES6 31/31 :                         Completed on July 18, 2020
-      Regular Expressions 33/33 :         Completed on July 19, 2020
-      Debugging 12/12 :                   Completed on July 20, 2020
-      Basic Data Structures 20/20 :       Completed on July 20, 2020
-      Basic Algorithm Scripting 16/16 :   Completed on July 21, 2020
+    Basic JavaScript 110/110 :                              Completed on July 18, 2020
+    ES6 31/31 :                                             Completed on July 18, 2020
+    Regular Expressions 33/33 :                             Completed on July 19, 2020
+    Debugging 12/12 :                                       Completed on July 20, 2020
+    Basic Data Structures 20/20 :                           Completed on July 20, 2020
+    Basic Algorithm Scripting 16/16 :                       Completed on July 21, 2020
+    Object Oriented Programming 26/26 :                     Completed on July 26, 2020
+    Functional Programming :                                In Progress
+    Intermediate Algorithm Scripting :                      In Progress
+    JavaScript Algorithms and Data Structures Projects :    In Progress
