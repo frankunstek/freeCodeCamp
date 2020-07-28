@@ -8,6 +8,6 @@ JavaScript Algorithms and Data Structures Certification (300 hours)
     Basic Data Structures 20/20 :                           Completed on July 20, 2020
     Basic Algorithm Scripting 16/16 :                       Completed on July 21, 2020
     Object Oriented Programming 26/26 :                     Completed on July 26, 2020
-    Functional Programming :                                In Progress
+    Functional Programming :                                Completed on July 28, 2020
     Intermediate Algorithm Scripting :                      In Progress
     JavaScript Algorithms and Data Structures Projects :    In Progress
