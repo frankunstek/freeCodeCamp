@@ -10,4 +10,14 @@ JavaScript Algorithms and Data Structures Certification (300 hours)
     Object Oriented Programming 26/26 :                     Completed on July 26, 2020
     Functional Programming :                                Completed on July 28, 2020
     Intermediate Algorithm Scripting :                      Completed on August 06, 2020
-    JavaScript Algorithms and Data Structures Projects :    In Progress
+    JavaScript Algorithms and Data Structures Projects :    Completed on August 23, 2020
+
+Responsive Web Design Certification (300 hours)
+    Basic HTML and HTML5 :                                  In Progress
+    Basic CSS :                                             In Progress
+    Applied Visual Design :                                 In Progress
+    Applied Accessibility :                                 In Progress
+    Responsive Web Design Principles :                      In Progress
+    CSS Flexbox :                                           In Progress
+    CSS Grid :                                              In Progress
+    Responsive Web Design Projects :                        In Progress
