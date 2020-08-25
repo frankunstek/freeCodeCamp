@@ -14,7 +14,7 @@ JavaScript Algorithms and Data Structures Certification (300 hours)
 
 Responsive Web Design Certification (300 hours)
     Basic HTML and HTML5 :                                  Completed on August 24, 2020
-    Basic CSS :                                             In Progress
+    Basic CSS :                                             Completed on August 25, 2020
     Applied Visual Design :                                 In Progress
     Applied Accessibility :                                 In Progress
     Responsive Web Design Principles :                      In Progress
