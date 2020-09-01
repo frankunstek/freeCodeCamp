@@ -19,5 +19,5 @@ Responsive Web Design Certification (300 hours)
     Applied Accessibility :                                 Completed on August 30, 2020
     Responsive Web Design Principles :                      Completed on August 31, 2020
     CSS Flexbox :                                           Completed on August 31, 2020
-    CSS Grid :                                              In Progress
+    CSS Grid :                                              Completed on September 1, 2020
     Responsive Web Design Projects :                        In Progress
