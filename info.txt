@@ -1,23 +1,23 @@
 freeCodeCamp Portfolio at https://www.freecodecamp.org/frankunstek 
 
 JavaScript Algorithms and Data Structures Certification (300 hours) 
-    Basic JavaScript 110/110 :                              Completed on July 18, 2020
-    ES6 31/31 :                                             Completed on July 18, 2020
-    Regular Expressions 33/33 :                             Completed on July 19, 2020
-    Debugging 12/12 :                                       Completed on July 20, 2020
-    Basic Data Structures 20/20 :                           Completed on July 20, 2020
-    Basic Algorithm Scripting 16/16 :                       Completed on July 21, 2020
-    Object Oriented Programming 26/26 :                     Completed on July 26, 2020
-    Functional Programming :                                Completed on July 28, 2020
-    Intermediate Algorithm Scripting :                      Completed on August 06, 2020
-    JavaScript Algorithms and Data Structures Projects :    Completed on August 23, 2020
+    Basic JavaScript 110/110 :                                  Completed on July 18, 2020
+    ES6 31/31 :                                                 Completed on July 18, 2020
+    Regular Expressions 33/33 :                                 Completed on July 19, 2020
+    Debugging 12/12 :                                           Completed on July 20, 2020
+    Basic Data Structures 20/20 :                               Completed on July 20, 2020
+    Basic Algorithm Scripting 16/16 :                           Completed on July 21, 2020
+    Object Oriented Programming 26/26 :                         Completed on July 26, 2020
+    Functional Programming 24/24 :                              Completed on July 28, 2020
+    Intermediate Algorithm Scripting 21/21 :                    Completed on August 06, 2020
+    JavaScript Algorithms and Data Structures Projects 5/5 :    Completed on August 23, 2020
 
 Responsive Web Design Certification (300 hours)
-    Basic HTML and HTML5 :                                  Completed on August 24, 2020
-    Basic CSS :                                             Completed on August 25, 2020
-    Applied Visual Design :                                 Completed on August 30, 2020
-    Applied Accessibility :                                 Completed on August 30, 2020
-    Responsive Web Design Principles :                      Completed on August 31, 2020
-    CSS Flexbox :                                           Completed on August 31, 2020
-    CSS Grid :                                              Completed on September 1, 2020
-    Responsive Web Design Projects :                        In Progress
+    Basic HTML and HTML5 28/28 :                                Completed on August 24, 2020
+    Basic CSS 44/44 :                                           Completed on August 25, 2020
+    Applied Visual Design 52/52 :                               Completed on August 30, 2020
+    Applied Accessibility 22/22 :                               Completed on August 30, 2020
+    Responsive Web Design Principles 4/4 :                      Completed on August 31, 2020
+    CSS Flexbox 17/17 :                                         Completed on August 31, 2020
+    CSS Grid 22/22 :                                            Completed on September 1, 2020
+    Responsive Web Design Projects 5/5 :                        In Progress
