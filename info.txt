@@ -23,7 +23,7 @@ Responsive Web Design Certification (300 hours)
     Responsive Web Design Projects 5/5 :                        Completed on September 8, 2020
 
 Front End Libraries Certification (300 hours)
-    Bootstrap 31/31 :                                           In Progress
+    Bootstrap 31/31 :                                           Completed on September 10, 2020
     jQuery 18/18 :                                              In Progress
     Sass 9/9 :                                                  In Progress
     React 47/47 :                                               In Progress
