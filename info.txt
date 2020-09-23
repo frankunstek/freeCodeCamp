@@ -27,6 +27,6 @@ Front End Libraries Certification (300 hours)
     jQuery 18/18 :                                              Completed on September 13, 2020
     Sass 9/9 :                                                  Completed on September 14, 2020
     React 47/47 :                                               Completed on September 21, 2020
-    Redux 17/17 :                                               In Progress
+    Redux 17/17 :                                               Completed on September 23, 2020
     React and Redux 10/10 :                                     In Progress
     Front End Libraries Projects 5/5 :                          In Progress
