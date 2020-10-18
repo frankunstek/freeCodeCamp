@@ -28,5 +28,10 @@ Front End Libraries Certification (300 hours)
     Sass 9/9 :                                                  Completed on September 14, 2020
     React 47/47 :                                               Completed on September 21, 2020
     Redux 17/17 :                                               Completed on September 23, 2020
-    React and Redux 10/10 :                                     In Progress
-    Front End Libraries Projects 5/5 :                          In Progress
+    React and Redux 10/10 :                                     Completed on September 24, 2020
+    Front End Libraries Projects 5/5 :                          Completed on Oktober 11, 2020
+
+Data Visualization Certification (300 hours)
+    Data Visualization with D3 29/29 :                          Completed on Oktober 18, 2020
+    JSON APIs and Ajax 10/10 :                                  In Progress
+    Data Visualization Projects 5/5 :                           In Progress
