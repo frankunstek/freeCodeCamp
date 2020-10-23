@@ -33,5 +33,5 @@ Front End Libraries Certification (300 hours)
 
 Data Visualization Certification (300 hours)
     Data Visualization with D3 29/29 :                          Completed on Oktober 18, 2020
-    JSON APIs and Ajax 10/10 :                                  In Progress
+    JSON APIs and Ajax 10/10 :                                  Completed on Oktober 21, 2020
     Data Visualization Projects 5/5 :                           In Progress
